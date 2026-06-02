@@ -1,0 +1,41 @@
+# Digital App Game Marketplace
+
+## Student Information
+- Faculty Number: 2401321033
+- Name: Eren Yashar
+
+## Project Description
+This is a full-stack digital game marketplace system.
+
+It consists of:
+- ASP.NET Core Web API (Backend)
+- ASP.NET MVC (Frontend)
+- JWT Authentication
+- CRUD operations for Products, Users, Purchases
+
+## Features
+- User registration and login (JWT)
+- Product management (CRUD)
+- Purchase system
+- Pagination and sorting
+- Secure API endpoints
+
+## Technologies Used
+- ASP.NET Core Web API
+- ASP.NET MVC
+- Entity Framework Core
+- SQLite
+- JWT Authentication
+
+## How to Run
+
+### Backend (API)
+1. Open API project
+2. Run: dotnet run
+3. Swagger: https://localhost:7056/swagger
+---
+
+### Frontend (MVC)
+1. Open Web project
+2. Run: dotnet run
+3. Open: https://localhost:7179/Products
